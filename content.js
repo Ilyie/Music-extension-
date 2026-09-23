@@ -1,1 +1,1 @@
-console.log("gruvy is running);
+console.log("gruvy is running");
